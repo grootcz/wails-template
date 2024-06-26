@@ -1,0 +1,12 @@
+{
+  "name": "aaa",
+  "outputfilename": "aaa",
+  "assetdir": "frontend/dist",
+  "wailsjsdir": "frontend/src",
+  "frontend:install": "npm install",
+  "frontend:build": "npm run build",
+  "author": {
+    "name": "zjmnssy",
+    "email": "624029344@qq.com"
+  }
+}
